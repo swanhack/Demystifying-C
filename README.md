@@ -1,7 +1,7 @@
 # Setup instructions
 
 ## Text editor
-We will not be making use of any specific IDE or text editor for these Demystifying C/C++ sessions. Therefore the choice of text editor is a personal one. Some recommended options are [Atom](https://atom.io/), [VSCode](https://code.visualstudio.com/) or then nano text editor if you wish to stick to the command line.
+We will not be making use of any specific IDE or text editor for these Demystifying C/C++ sessions. Therefore the choice of text editor is a personal one. Some recommended options are [Atom](https://atom.io/), [VSCode](https://code.visualstudio.com/) or the nano text editor if you wish to stick to the command line.
 
 ## Compiler
 For the Demystifying C/C++ sessions we will be using the [GCC compiler](https://gcc.gnu.org/) to build our code. Install instructions for it can be found bellow. Select the platform that is relevant for you.
